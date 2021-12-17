@@ -16,4 +16,4 @@ The Goal of this app is to implement e-commerce cart with the help of react's fu
 
 
 ### **SANDBOX LINK**
-- [Click Here to view the sandbox](https://9e35q.csb.app/)
+- [Click Here to visit the hosted web app.](https://9e35q.csb.app/)
